@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jonbonmateo&label=Profile%20views&color=0e75b6&style=flat" alt="jonbonmateo" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jonbonmateo" alt="jonbonmateo" /></a> </p>
-
 - 📝 Stack Overflow [https://stackoverflow.com/users/4280980/jon](https://stackoverflow.com/users/4280980/jon)
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/jonbonjovimateo](https://www.linkedin.com/in/jonbonjovimateo)
